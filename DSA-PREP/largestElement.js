@@ -12,7 +12,7 @@
 // Output:
 //  10
 // Explanation:
-//  10 is the largest element in the array.
+//  10 is the largest element in the array
 
 function maxValue(arr) {
   let max = Number.NEGATIVE_INFINITY;
